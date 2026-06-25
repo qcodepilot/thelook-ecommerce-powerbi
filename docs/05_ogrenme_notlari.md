@@ -54,5 +54,16 @@
 
 > Not: measure'lar birbirini Lego gibi kullanır — `Toplam Kâr = [Toplam Satış] - [Toplam Maliyet]`. Önce küçük parçaları yaz, sonra birleştir.
 
+## 🏷️ Hesaplanan SÜTUN = Kavanoza Etiket (5 kalıp)
+**Resim:** Measure = tarif (anlık "ne kadar?"). Sütun = her kavanoza yapışan sabit etiket ("bu satır ne?").
+**5 temel sütun kalıbı:**
+1. `IF / SWITCH(TRUE(),...)` → satırı gruba sok / etiketle (Harcama Segmenti, Yaş Grubu) — EN SIK
+2. `RELATED(tablo[sütun])` → başka tablodan değer çek/lookup (order_items'a products[category])
+3. `CALCULATE(SUM(...))` → o satır için ilişkili tablodan topla (Toplam Harcama)
+4. `&` (metin birleştirme) → sütunları birleştir (Tam Ad = first_name & " " & last_name)
+5. `YEAR/MONTH/FORMAT(tarih)` → tarihten parça çıkar (Sipariş Yılı)
++ bonus: aritmetik (Birim Kâr = retail_price - cost)
+**Karar pusulası:** *"Bu satır ne?" → SÜTUN (etiketle). "Toplamda ne kadar?" → MEASURE (hesapla).*
+
 ---
 > Yeni kavram öğrendikçe buraya benzetmesiyle ekle. Bu dosya senin "kalıcı hafıza"n.
