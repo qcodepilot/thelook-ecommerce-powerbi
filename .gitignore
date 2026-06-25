@@ -1,0 +1,23 @@
+# Power BI geçici dosyaları
+*.pbix.tmp
+TempState/
+*.ldf
+
+# Power BI önbellek / otomatik kurtarma
+*~$*
+*.tmp
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Veri dosyaları (büyükse repo'ya koyma — gerekirse bu satırları sil)
+*.csv
+*.xlsx
+
+# İşletim sistemi
+.DS_Store
+
+# Not: .pbix dosyasını commit'lemek istiyorsan AŞAĞIYI yoruma çevirme.
+# Dosya 100MB'ı geçiyorsa Git LFS kullan veya pbix'i koyma, PDF/ekran görüntüsü koy.
+# *.pbix
