@@ -40,4 +40,4 @@ TheLook, kurgusal bir e-ticaret giyim perakendecisidir. Bu projede müşteri, ü
 3. …
 
 ---
-👤 **Hazırlayan:** [Adın] · Workintech Veri Analitiği
+👤 **Hazırlayan:** Ömür Yalçın Mutlu · Workintech Veri Analitiği
