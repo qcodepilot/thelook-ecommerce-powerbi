@@ -41,5 +41,18 @@
 **Resim:** Repo = kod ve not defteri; bavul (.pbix 163MB) oraya sığmaz. Bavulu Drive'a koy, repoya sadece notları + fotoğrafları (PDF/ekran görüntüsü) koy.
 **Özet:** *GitHub'a kod + dokümantasyon konur; büyük ikili dosyalar (.pbix) değil.*
 
+## 🧱 DAX = ~5 Lego Parçası
+**Resim:** Az sayıda Lego parçası, sonsuz yapı. DAX'ta da ~5 temel kalıp tüm KPI'ları üretir; iş kelimesi değişir, kalıp aynı kalır.
+**5 temel kalıp:**
+1. `SUM / COUNTROWS` → topla / say (Toplam Satış, Satılan Ürün Adedi)
+2. `DISTINCTCOUNT` → benzersiz say (Sipariş Sayısı, Müşteri Sayısı, Oturum Sayısı)
+3. `AVERAGE` → ortala (Ortalama Satış Fiyatı)
+4. `DIVIDE` → oran/yüzde (Kâr Marjı %, İade Oranı, Dönüşüm Oranı, AOV)
+5. `CALCULATE` → koşullu hesapla / filtre değiştir (Net Satış, İade Oranı, Satın Alan Oturum)
++ bonus: `SUMX + RELATED` → satır satır + başka tablodan değer çek (Toplam Maliyet)
+**Özet:** *DAX sonsuz ezber değil; ~5 kalıbın iş sorusuna göre tekrarı. Kalıbı tanı, kelimeyi değiştir.*
+
+> Not: measure'lar birbirini Lego gibi kullanır — `Toplam Kâr = [Toplam Satış] - [Toplam Maliyet]`. Önce küçük parçaları yaz, sonra birleştir.
+
 ---
 > Yeni kavram öğrendikçe buraya benzetmesiyle ekle. Bu dosya senin "kalıcı hafıza"n.
