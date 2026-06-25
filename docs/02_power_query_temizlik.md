@@ -33,11 +33,19 @@ Karar verince: sorguya sağ tık → **"Yüklemeyi etkinleştir" işaretini kald
 veya **Sil**.
 **Neden "etkinleştirmeyi kapat":** Sorgu dursun ama modele yüklenmesin → istersek geri açarız, modeli kirletmez.
 
-## D) Tip düzeltme (her tabloda)
-- Tarih sütunları (`created_at`, `shipped_at`, `delivered_at`, `returned_at`, `sold_at`) → **Tarih/Saat**
-- Fiyat/maliyet (`sale_price`, `cost`, `retail_price`) → **Ondalık Sayı**
-- id'ler → **Tam Sayı**
-- Metin (`category`, `brand`, `status`) → **Kırp + Temizle**
+## D) Tip kontrolü — SONUÇ ✅
+7 tablonun tamamı tek tek kontrol edildi. **Tüm tipler doğru geldi** (BigQuery doğru aktarmış):
+- Tarihler (`created_at`, `shipped_at`, `delivered_at`, `returned_at`, `sold_at`) → Tarih/Saat ✅
+- Para (`sale_price`, `cost`, `retail_price`, `product_retail_price`) → Ondalık ✅
+- id'ler, `age`, `num_of_item` → Tam Sayı ✅
+- `latitude` / `longitude` → Ondalık ✅
+- Metin (`category`, `brand`, `status`, `traffic_source`) → Metin ✅
+
+## D2) Veri kalitesi sonucu (bulgu)
+- Düzeltilecek tip **yok**.
+- Tekrar (duplicate) **yok** — id'ler benzersiz (önizlemede 1000/1000).
+- Eksik veriler yalnızca **anlamlı** tarih sütunlarında (sold_at = satılmamış, returned_at = iade edilmemiş, shipped_at = kargolanmamış). Bunlar hata değil, iş bilgisi → dokunulmadı.
+- **Sonuç:** Veri temiz; "temizlik" burada doğrulama anlamına geldi.
 
 ## E) Bitiş
-Ana Sayfa → **Kapat ve Uygula** → veri modele yüklenir.
+Ana Sayfa → **Kapat ve Uygula** → veri modele yüklenir. ✅ FAZ 2 tamam.
