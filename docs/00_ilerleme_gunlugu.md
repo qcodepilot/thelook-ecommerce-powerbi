@@ -22,6 +22,8 @@
 - [ ] FAZ 9 — Cila + .pbix kaydet + sunum
 
 ## 🧠 Önemli kararlar (neden böyle yaptık)
-- **Sadece 6 tablo:** Proje "hepsini kapsama, en ilgilileri seç" diyor. `events` çok büyük, kopya tablo modeli bozar.
+- **Kapsam: 5 alan (tam build):** Proje 2-3 seç diyor ama bu 3 kişilik ekip projesi; Ömür hepsini öğrenmek için tek başına yapıyor, sonra kendi payını çekecek. Herkes kendi .pbix'ini yapıyor.
+- **events TUTULUYOR:** Web Sitesi + Pazarlama alanları için gerekli. (Önceki "devre dışı" kararı, kapsam genişleyince güncellendi.)
+- **thelook_ecommerce-table silindi:** Şemasız/bozuk (DataSource hatası), yüklenemiyor.
 - **Veri Dönüştürme > Yükle:** Veriyi modele almadan önce temizlemek için.
 - **bigquery-public-data'dan direkt okuma:** Kendi projemize kopyalamaya gerek yok; fatura `third-harbor-301722`'den düşer.

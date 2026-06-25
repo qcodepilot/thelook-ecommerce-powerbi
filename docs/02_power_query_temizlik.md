@@ -23,7 +23,7 @@ Bir tablo modele girmeyi hak ediyor mu?
 | products | Ürün/kategori/marka/maliyet | ✅ Tut |
 | inventory_items | Stok kalemleri | ✅ Tut |
 | distribution_centers | Dağıtım merkezi | ✅ Tut |
-| **events** | Web tıklama verisi (browser, traffic_source, uri, event_type). Bizim 3 vakada kullanılmıyor; çok büyük; `user_id` önizlemede null | ⚠️ **Yükleme devre dışı** (silinmedi, kapsam dışı) |
+| **events** | Web tıklama verisi (browser, traffic_source, uri, event_type). **Web Sitesi + Pazarlama alanları için GEREKLİ** | ✅ **Tutuluyor** (tam kapsam kararı) |
 | **thelook_ecommerce-table** | **HATA:** `DataSource.Error: Table ... does not have a schema` — şemasız/bozuk, yüklenemiyor | ❌ **Silindi** |
 
 > 🎓 Not: Eleme kararları varsayımla değil, Power Query'de **doğrudan gözlemlenen kanıtla** verildi (hata mesajı + sütun içerikleri).
