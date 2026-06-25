@@ -2,6 +2,12 @@
 
 > Projede attığımız adımların kaydı. Her anlamlı adımdan sonra güncellenir.
 
+## 📍 KALDIĞIMIZ YER (yarın buradan devam)
+**Tamamlanan:** FAZ 1-4 bitti → veri bağlandı, temizlendi, model + Tarih tablosu kuruldu, 14 measure + 2 segment sütunu yazıldı. Alet çantası hazır.
+**Sıradaki adım:** FAZ 5 — Sayfa 1 "Satış Performansı" görselleri. İlk iş: KPI Kartı (Toplam Satış) oluşturmak.
+**Hatırlatma:** Rapor görünümü → sayfayı "Satış Performansı" adlandır → Kart görseli → Toplam Satış. Sonra 3 KPI kartı + çizgi (aylık trend) + çubuk (top kategori) + hafta içi/sonu.
+**Not:** `.pbix` yerelde kayıtlı (GitHub'da değil — büyük dosya).
+
 ## ✅ Tamamlanan
 | # | Adım | Açıklama |
 |---|------|----------|
