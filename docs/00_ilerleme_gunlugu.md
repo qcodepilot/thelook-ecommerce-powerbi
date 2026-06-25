@@ -18,8 +18,8 @@
 - [x] FAZ 2 — Power Query: inceleme + tip kontrolü tamam (detay: `docs/02_power_query_temizlik.md`)
 - [x] Kapat ve Uygula → 7 tablo modele yüklendi
 - [x] FAZ 3 (ilişkiler) — 6 ilişkilik temiz star schema kuruldu (detay: `docs/03_model_iliskiler.md`)
-- [ ] FAZ 3 (devam) — Tarih tablosu
-- [ ] FAZ 4 — DAX measure'lar
+- [x] FAZ 3 (devam) — Tarih tablosu oluşturuldu + order_items[created_at]'e bağlandı ("tarih tablosu olarak işaretle" opsiyonel, atlandı)
+- [ ] FAZ 4 — DAX measure'lar (referans: `docs/04_dax_kutuphanesi.md`)
 - [ ] FAZ 3 — Model & ilişkiler + Tarih tablosu
 - [ ] FAZ 4 — DAX measure'lar
 - [ ] FAZ 5-7 — 3 sayfa görselleştirme
