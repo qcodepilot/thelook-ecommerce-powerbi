@@ -16,8 +16,10 @@
 
 ## ⏳ Sıradaki adımlar
 - [x] FAZ 2 — Power Query: inceleme + tip kontrolü tamam (detay: `docs/02_power_query_temizlik.md`)
-- [ ] Kapat ve Uygula → veri modele yüklenir
-- [ ] FAZ 3 — Model & ilişkiler + Tarih tablosu
+- [x] Kapat ve Uygula → 7 tablo modele yüklendi
+- [x] FAZ 3 (ilişkiler) — 6 ilişkilik temiz star schema kuruldu (detay: `docs/03_model_iliskiler.md`)
+- [ ] FAZ 3 (devam) — Tarih tablosu
+- [ ] FAZ 4 — DAX measure'lar
 - [ ] FAZ 3 — Model & ilişkiler + Tarih tablosu
 - [ ] FAZ 4 — DAX measure'lar
 - [ ] FAZ 5-7 — 3 sayfa görselleştirme

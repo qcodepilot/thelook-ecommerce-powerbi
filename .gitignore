@@ -18,6 +18,6 @@ desktop.ini
 # İşletim sistemi
 .DS_Store
 
-# Not: .pbix dosyasını commit'lemek istiyorsan AŞAĞIYI yoruma çevirme.
-# Dosya 100MB'ı geçiyorsa Git LFS kullan veya pbix'i koyma, PDF/ekran görüntüsü koy.
-# *.pbix
+# .pbix dosyaları çok büyük (events ile 160MB+) — GitHub 100MB sınırını aşar.
+# Repo'ya koymuyoruz; teslim PDF + ekran görüntüleriyle yapılır.
+*.pbix
