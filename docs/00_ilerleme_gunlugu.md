@@ -10,9 +10,11 @@
 | 3 | Veri kaynağı | Power BI → Google BigQuery → `bigquery-public-data.thelook_ecommerce` bağlandı |
 | 4 | Tablo seçimi | 6 tablo seçildi (`order_items, orders, users, products, inventory_items, distribution_centers`); `events` ve kopya tablo dışlandı |
 | 5 | Veri keşfi (EDA) | Veri sözlüğü + ilişki haritası dokümante edildi → `docs/01_veri_kesfi_ve_iliskiler.md` |
+| 6 | 8 tablo Power Query'ye alındı | Öğrenme amacıyla 8 tablonun hepsi içe aktarıldı; 2'sini (events + kopya tablo) **inceleyerek** eleme kararı verilecek |
+| 7 | EDA araçları açıldı | Görünüm > Sütun kalitesi / dağılımı / profili aktif edildi (veri kalitesi kontrolü) |
 
 ## ⏳ Sıradaki adımlar
-- [ ] FAZ 2 — Power Query: tip kontrolü + temizlik
+- [ ] FAZ 2 — Power Query: tablo inceleme + eleme + tip kontrolü + temizlik (detay: `docs/02_power_query_temizlik.md`)
 - [ ] FAZ 3 — Model & ilişkiler + Tarih tablosu
 - [ ] FAZ 4 — DAX measure'lar
 - [ ] FAZ 5-7 — 3 sayfa görselleştirme
