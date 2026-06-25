@@ -14,17 +14,19 @@ Bir tablo modele girmeyi hak ediyor mu?
 3. **Tekrar** — verisi başka tabloda zaten var mı?
 4. **İlişki** — modele temiz bağlanıyor mu?
 
-### İnceleme sonuçları
-| Tablo | Satır | Gözlem | Karar |
-|-------|-------|--------|-------|
-| order_items | _doldurulacak_ | Ana olgu tablosu | ✅ Tut |
-| orders | _doldurulacak_ | Sipariş başlığı | ✅ Tut |
-| users | ~100k | Müşteri demografisi | ✅ Tut |
-| products | _doldurulacak_ | Ürün/kategori/marka | ✅ Tut |
-| inventory_items | _doldurulacak_ | Stok | ✅ Tut |
-| distribution_centers | _doldurulacak_ | Dağıtım merkezi | ✅ Tut |
-| events | _doldurulacak_ | Web olayları | ⏳ inceleniyor |
-| thelook_ecommerce-table | _doldurulacak_ | Uyarı ⚠️ ikonu var — kopya/denormalize? | ⏳ inceleniyor |
+### İnceleme sonuçları (gözleme dayalı)
+| Tablo | Gözlem | Karar |
+|-------|--------|-------|
+| order_items | Ana olgu tablosu (sale_price, status, tarihler) | ✅ Tut |
+| orders | Sipariş başlığı | ✅ Tut |
+| users | EDA panelinde tüm sütunlar **%100 Geçerli, %0 Hata, %0 Boş** — tertemiz | ✅ Tut |
+| products | Ürün/kategori/marka/maliyet | ✅ Tut |
+| inventory_items | Stok kalemleri | ✅ Tut |
+| distribution_centers | Dağıtım merkezi | ✅ Tut |
+| **events** | Web tıklama verisi (browser, traffic_source, uri, event_type). Bizim 3 vakada kullanılmıyor; çok büyük; `user_id` önizlemede null | ⚠️ **Yükleme devre dışı** (silinmedi, kapsam dışı) |
+| **thelook_ecommerce-table** | **HATA:** `DataSource.Error: Table ... does not have a schema` — şemasız/bozuk, yüklenemiyor | ❌ **Silindi** |
+
+> 🎓 Not: Eleme kararları varsayımla değil, Power Query'de **doğrudan gözlemlenen kanıtla** verildi (hata mesajı + sütun içerikleri).
 
 ## C) Eleme yöntemi
 Karar verince: sorguya sağ tık → **"Yüklemeyi etkinleştir" işaretini kaldır** (silmeden devre dışı bırakma)
