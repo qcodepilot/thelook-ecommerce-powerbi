@@ -116,7 +116,18 @@
 > için kampanyaları geniş kitleye kurun."
 
 ## 📦 SAYFA 3 — Envanter / Ürün
-> _(bu sayfayı yapınca eklenecek)_
+
+### Kârlılık & Satış Örtüşmesi
+> "Ürün tarafında en kârlı kategorilere baktığımızda çarpıcı bir uyum görüyoruz:
+> kâr sıralaması, satış sıralamasıyla neredeyse birebir aynı — yine Outerwear & Coats,
+> Jeans ve Sweaters önde. Bu da marjlarımızın kategoriler arasında **tutarlı (~%52)**
+> olduğunu, yani 'çok satan ama kâr getirmeyen' tuzak bir kategorimiz olmadığını gösteriyor.
+> En çok satan kategoriler aynı zamanda en kârlı olanlar — bu kategoriler **çift değerli.**"
+
+### İade Oranı
+> "Genel iade oranımız **%10** — yani her 10 üründen biri geri dönüyor. Bu, göz ardı
+> edilmeyecek bir oran; hangi ürünlerin daha çok iade edildiğini incelemek, beden/kalite
+> sorunlarını yakalamak için önemli."
 
 ## 🌐 SAYFA 4 — Web Sitesi Performansı
 > _(bu sayfayı yapınca eklenecek)_
