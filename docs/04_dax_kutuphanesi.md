@@ -76,6 +76,13 @@ VAR h = 'users'[Toplam Harcama]
 RETURN IF(ISBLANK(h), "Alışveriş Yok",
     IF(h < 100, "Düşük", IF(h < 500, "Orta", "Yüksek")))
 ```
+Müşteri yaşam süresi (tek seferlik vs tekrar eden) — `users` sütunları:
+```DAX
+Müşteri Sipariş Sayısı = CALCULATE(DISTINCTCOUNT(order_items[order_id]))
+```
+```DAX
+Müşteri Tipi = IF(users[Müşteri Sipariş Sayısı] <= 1, "Tek Seferlik", "Tekrar Eden")
+```
 
 ## 📦 Envanter / Ürün
 ```DAX

@@ -136,6 +136,24 @@
 > (Dürüst not: Bu kadar düz bir dağılım, veri setinin kurgusal üretiminden kaynaklanıyor
 > olabilir; gerçek bir e-ticarette yaş genelde belirli aralıklarda yoğunlaşır.)"
 
+### ⭐ Müşteri Yaşam Süresi: Tek Seferlik vs Tekrar Eden (en güçlü bulgu)
+> "Şimdi sunumun en çarpıcı bulgusuna geliyoruz. Müşterilerimizi tek seferlik ve tekrar
+> eden diye ayırdık:
+> • Tekrar eden müşteriler: 30 bin kişi — yani müşterilerin sadece **%38'i** — ama
+>   cironun **%60'ını** (6,6 milyon dolar) üretiyorlar.
+> • Tek seferlik müşteriler: 50 bin kişi (%62) ama cironun yalnızca %40'ı.
+>
+> Müşteri başına çevirdiğimizde fark daha da net: tekrar eden bir müşteri **218 dolar**
+> değerinde, tek seferlik ise **86 dolar** — yani tekrar eden müşteri **2,5 kat** daha değerli.
+> (İlginç: tek seferlik müşteri başı 86 dolar, ortalama sipariş değerimizle neredeyse aynı —
+> mantıklı, çünkü tek sipariş veriyorlar.)
+>
+> Bunun anlamı çok net: en yüksek kaldıraçlı büyüme stratejimiz **müşteri elde tutma
+> (retention).** Bir tek-seferlik müşteriyi tekrar edene dönüştürmek, o müşterinin değerini
+> 2,5 katına çıkarıyor — bu, sürekli yeni müşteri avlamaktan çok daha kârlı. Önerim: ilk
+> alışverişten sonra sadakat programı, kişiselleştirilmiş e-posta ve ikinci-sipariş indirimi
+> ile tek seferlik müşterileri geri kazanmaya odaklanmak."
+
 ### ✅ Sayfa 2 Önerisi
 > "Müşteri tarafındaki önerilerim: (1) 35 binlik orta segmenti sadakat programıyla yukarı
 > taşıyın, (2) değerli yüksek segmenti özel avantajlarla elde tutun, (3) pazarlama bütçesini
