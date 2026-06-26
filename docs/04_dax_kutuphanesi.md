@@ -90,6 +90,19 @@ Stoktaki Ürün Adedi = CALCULATE(COUNTROWS('inventory_items'), ISBLANK('invento
 Satılan Stok Adedi = CALCULATE(COUNTROWS('inventory_items'), NOT ISBLANK('inventory_items'[sold_at]))
 ```
 
+## 🗓️ Tarih/Zaman Hesaplanan Sütunları (order_items'a eklendi)
+Trend ve hafta analizi için. Tarih tablosu ilişkisine güvenmeden, fact'in kendi tarihini kullanır.
+```DAX
+Sipariş Ay = FORMAT(order_items[created_at], "YYYY-MM")
+```
+> Aylık trend grafiğinin X ekseni. "2024-06" metni; alfabetik = kronolojik sıralanır.
+```DAX
+Hafta Durumu = IF(WEEKDAY(order_items[created_at], 2) >= 6, "Hafta Sonu", "Hafta İçi")
+```
+> Hafta içi/sonu kırılımı. WEEKDAY(...,2): Pzt=1 … Cmt=6, Paz=7 → 6+ hafta sonu.
+
+> ⚠️ **TARİH BUG'I NOTU (önemli ders):** `order_items[created_at]` başlangıçta **Tarih/Saat** (datetime) tipindeydi. Tarih tablosuyla (`Tarih[Date]`, sadece tarih) ilişki kurunca **saat bileşeni yüzünden eşleşmedi** → satışlar "(Boş)"a düştü. Çözüm: `created_at`'i **Tarih** (Date) tipine çevir VEYA grafiklerde doğrudan `created_at`/`Sipariş Ay` kullan. Tip değiştirince ilişki silinebilir, yeniden kur.
+
 ## 🌐 Web / 📣 Pazarlama
 ```DAX
 Toplam Olay = COUNTROWS('events')
