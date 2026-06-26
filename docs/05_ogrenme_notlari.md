@@ -65,5 +65,9 @@
 + bonus: aritmetik (Birim Kâr = retail_price - cost)
 **Karar pusulası:** *"Bu satır ne?" → SÜTUN (etiketle). "Toplamda ne kadar?" → MEASURE (hesapla).*
 
+## 🔦 Cross-Filter (Çapraz Filtreleme)
+**Resim:** Bir grafikte bir çubuğa tıklayınca, o seçim **tüm sayfayı** filtreler — projektörle tek kategoriye ışık tutmak gibi. Boşluğa tıkla = ışığı kapat (toplamlara dön).
+**Özet:** *Power BI görselleri birbiriyle konuşur; bir öğeye tıkla, her şey o seçime göre güncellenir. Dashboard'ı canlı/etkileşimli yapan budur.* Sunumda "tıklayın, sayfa güncellensin" demek güçlü bir gösteri.
+
 ---
 > Yeni kavram öğrendikçe buraya benzetmesiyle ekle. Bu dosya senin "kalıcı hafıza"n.
