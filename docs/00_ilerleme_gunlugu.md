@@ -4,7 +4,8 @@
 
 ## 📍 KALDIĞIMIZ YER (buradan devam)
 **Tamamlanan:** FAZ 1-4 (veri+model+measure) + **Sayfa 1 Satış** (5 KPI, trend, top kategori, ort. fiyat) + **Sayfa 2 Müşteri** (segment halkası, müşteri başı gelir, coğrafi treemap, cinsiyet, yaş). Tüm içgörüler `docs/06_sunum_anlatimi.md`'de.
-**Sıradaki adım:** Sayfa 5 — Pazarlama (kanal→satış, kanal→müşteri, trafik kaynağı→oturum). Son sayfa! Sonra cila + teslim. Sayfa 4 (Web) tamam: Oturum/Dönüşüm KPI, dönüşüm hunisi (sepet terki bulgusu), tarayıcı.
+**Sıradaki adım:** Cila + teslim. **5 SAYFA DA TAMAM** (Satış, Müşteri, Envanter, Web, Pazarlama). Sayfa 5 (Pazarlama): kanal→satış, kanal→müşteri, kanal performans tablosu (kalite homojen ~136$/müşteri).
+**SONA BIRAKILAN DÜZELTMELER (kullanıcı isteği):** (1) Hafta içi/sonu satış grafiği — DAX: `Hafta Durumu = IF(WEEKDAY(order_items[created_at],2)>=6,"Hafta Sonu","Hafta İçi")`, (2) Soru kapsama dosyası, (3) genel cila (başlık/tema/hizalama), (4) PDF export + pbix paylaşım linki.
 **Önemli teknik not:** Tarih tablosu ilişkisi datetime/date sorunu yaşattı; çözüm = grafiklerde `order_items[created_at]` veya `Sipariş Ay` (FORMAT) sütununu doğrudan kullan, Tarih ilişkisine güvenme. Hafta içi/sonu için order_items'a DAX sütun eklenebilir.
 **Not:** `.pbix` yerelde kayıtlı (GitHub'da değil — büyük dosya). Azure harita bölge kısıtı → coğrafya için treemap kullanıldı.
 

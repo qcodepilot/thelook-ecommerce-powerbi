@@ -203,6 +203,10 @@
 > (2) Organic ikinci ve maliyetsiz — içerik üretimiyle besleyin. (3) Email, Facebook ve
 > Display şu an küçük; bunlar büyütülebilir potansiyel, küçük test bütçeleriyle ölçeklemeyi
 > deneyin.
+> Bunu bir tabloyla da doğruladık: her kanalın müşteri başına ortalama geliri 134-138 dolar
+> arasında — neredeyse aynı, yani kanal kalitesi homojen (~136 dolar/müşteri). İlginç ayrıntı:
+> en küçük kanal Display aslında en yüksek müşteri başı gelire (138) sahip; Display ve Email
+> gibi küçük ama verimli kanalları ölçeklemek mantıklı olabilir.
 > (Dürüst not: TheLook'ta reklam harcaması verisi olmadığı için gerçek ROI ve müşteri
 > kazanım maliyeti hesaplanamıyor; kanalları gelir ve müşteri sayısıyla vekil olarak değerlendirdik.)"
 
