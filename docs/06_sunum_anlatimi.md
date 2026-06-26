@@ -129,6 +129,21 @@
 > edilmeyecek bir oran; hangi ürünlerin daha çok iade edildiğini incelemek, beden/kalite
 > sorunlarını yakalamak için önemli."
 
+### Stok–Satış Uyumsuzluğu (kritik envanter bulgusu)
+> "Şimdi önemli bir noktaya geliyoruz. Stokta en çok bulunan 5 kategori: Intimates,
+> Jeans, Tops & Tees, Fashion Hoodies ve Swim. Ama en çok satan ve en çok kâr eden
+> kategorilerimiz Outerwear, Jeans ve Sweaters'dı. Bu iki listede yalnızca **Jeans**
+> ortak!
+>
+> Yani **Intimates ve Tops & Tees** depolarımızı dolduruyor ama satışta öne çıkmıyor —
+> bu, **rafta bekleyen, paraya dönüşmeyen fazla stok** demek. Tersine, en kârlı
+> kategorimiz Outerwear, en çok stoklananlar arasında değil; demek ki hızlı tükeniyor
+> ve **stok tükenmesi riski** taşıyor.
+>
+> Önerim net: Intimates ve Tops & Tees için sipariş miktarlarını azaltıp eldeki stoğu
+> indirimle eritelim; buna karşılık Outerwear & Coats stoğunu artıralım. Böylece hem
+> bağlı sermayeyi azaltır, hem de en kârlı üründe satış kaçırmayı önleriz."
+
 ## 🌐 SAYFA 4 — Web Sitesi Performansı
 > _(bu sayfayı yapınca eklenecek)_
 
