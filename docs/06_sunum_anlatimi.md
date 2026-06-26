@@ -85,6 +85,16 @@
 > yukarı taşımak; ikincisi, o değerli ama küçük **yüksek segmenti** özel programlarla
 > elde tutmak — çünkü değerli bir müşteriyi kaybetmek, yenisini kazanmaktan pahalıdır."
 
+### Coğrafi Dağılım
+> "Müşterilerimiz coğrafi olarak nerede yoğunlaşıyor? En büyük müşteri tabanımız
+> **Çin ve ABD**'de; ardından Brezilya, İngiltere, Güney Kore, Fransa ve Almanya
+> geliyor. Yani uluslararası bir işletmeyiz, ama müşteriler **birkaç büyük ülkede
+> toplanmış.** Bu da pazarlama bütçesini her yere eşit dağıtmak yerine, bu yüksek
+> yoğunluklu ülkelere odaklamamız gerektiğini söylüyor."
+>
+> _(Not: Coğrafi dağılım, ülke bazlı bir ağaç haritasıyla gösterildi — Azure harita
+> servisi bölge kısıtı nedeniyle kullanılamadı; treemap aynı bilgiyi güvenilir şekilde verir.)_
+
 ## 📦 SAYFA 3 — Envanter / Ürün
 > _(bu sayfayı yapınca eklenecek)_
 
