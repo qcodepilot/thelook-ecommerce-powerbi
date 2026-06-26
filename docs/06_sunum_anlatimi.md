@@ -176,6 +176,18 @@
 > (Dürüst not: %27'lik dönüşüm oranı gerçek e-ticaret için olağandışı yüksek — gerçekte
 > %2-3 beklenir; bu, veri setinin kurgusal olmasından kaynaklanıyor.)"
 
+### Tarayıcı Dağılımı
+> "Ziyaretçilerimizin tarayıcı tercihine baktığımızda Chrome açık ara önde — neredeyse
+> yarısı Chrome kullanıyor; ardından Safari ve Firefox geliyor, IE ise yok denecek kadar
+> az. Bu, mühendislik kaynağımızı nereye ayıracağımızı söylüyor: siteyi önce Chrome'da
+> kusursuz çalışacak şekilde test edelim, Safari ve Firefox'u ikinci öncelik yapalım,
+> eski IE için ekstra çaba harcamayalım."
+
+### ✅ Sayfa 4 Önerisi (Web)
+> "Web tarafındaki öncelik: sepet terkini azaltmak. Ödeme adımlarını sadeleştirip,
+> sepetini terk edenlere retargeting yaparsak dönüşümü doğrudan artırırız. Teknik tarafta
+> ise Chrome öncelikli test stratejisi izleyelim."
+
 ## 📣 SAYFA 5 — Pazarlama Etkinliği
 > _(bu sayfayı yapınca eklenecek)_
 
