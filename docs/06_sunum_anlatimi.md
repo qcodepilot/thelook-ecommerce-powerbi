@@ -189,7 +189,22 @@
 > ise Chrome öncelikli test stratejisi izleyelim."
 
 ## 📣 SAYFA 5 — Pazarlama Etkinliği
-> _(bu sayfayı yapınca eklenecek)_
+
+### Kanal Analizi
+> "Müşterilerimiz hangi kanaldan geliyor ve hangisi para getiriyor? İki grafiği yan yana
+> koyduğumuzda çarpıcı bir uyum var: hem müşteri sayısı hem satış sıralaması aynı —
+> **Search açık ara önde**, ardından Organic, sonra Facebook, Email ve Display.
+>
+> İki grafiğin aynı şekilde olması şu anlama geliyor: kanallar arasında müşteri kalitesi
+> benzer; yani hiçbir kanal 'çok ama değersiz' ya da 'az ama altın' müşteri getirmiyor.
+> Search sadece en büyük musluk.
+>
+> Önerim: (1) Search'e (SEO + arama reklamları) yatırımı sürdürün, en çok getiren kanal o.
+> (2) Organic ikinci ve maliyetsiz — içerik üretimiyle besleyin. (3) Email, Facebook ve
+> Display şu an küçük; bunlar büyütülebilir potansiyel, küçük test bütçeleriyle ölçeklemeyi
+> deneyin.
+> (Dürüst not: TheLook'ta reklam harcaması verisi olmadığı için gerçek ROI ve müşteri
+> kazanım maliyeti hesaplanamıyor; kanalları gelir ve müşteri sayısıyla vekil olarak değerlendirdik.)"
 
 ---
 
