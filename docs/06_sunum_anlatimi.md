@@ -40,6 +40,18 @@
 > _Teknik not (analist için): KPI'daki 10,9M toplam = tüm ayların toplamı; grafikteki
 > her nokta tek bir ayın dilimi. Parçalar bütünü doğruluyor._
 
+### 📅 Hafta İçi / Hafta Sonu (normalize etme dersi)
+> "Satışların haftanın günlerine dağılımına baktığımızda ilk bakışta hafta içi ezici
+> görünüyor: toplam satışın %72'si hafta içi, %28'i hafta sonu. Ama burada dikkatli
+> olmak gerekiyor — hafta içi 5 gün, hafta sonu sadece 2 gün. Adil karşılaştırma için
+> **gün başına** bakalım: hafta içi günde ~1,56 milyon, hafta sonu günde ~1,55 milyon.
+> Yani **gün başına neredeyse aynı!**
+>
+> Demek ki satışlarımız haftanın her gününe eşit dağılmış; belirgin bir hafta içi/sonu
+> etkisi yok. Bu yüzden güne özel (örneğin yalnızca hafta sonu) kampanyalara gerek yok;
+> talep hafta boyu sabit. (Not: gerçek perakendede genelde hafta sonu bir zirve görülür;
+> buradaki düzlük veri setinin kurgusal olmasından kaynaklanıyor olabilir.)"
+
 ### 🏆 Top Kategoriler
 > "Peki bu satışlar hangi ürünlerden geliyor? En çok ciro getiren üç kategori:
 > **Outerwear & Coats, Jeans ve Sweaters** — yani montlar, kotlar ve kazaklar.
