@@ -95,6 +95,12 @@
 > _(Not: Coğrafi dağılım, ülke bazlı bir ağaç haritasıyla gösterildi — Azure harita
 > servisi bölge kısıtı nedeniyle kullanılamadı; treemap aynı bilgiyi güvenilir şekilde verir.)_
 
+### Cinsiyet Kırılımı
+> "Cinsiyete baktığımızda erkek müşteriler yaklaşık 6 milyon dolar, kadın müşteriler
+> 5 milyon dolar civarında satış getiriyor — yani **dengeli bir tablo**, hafif erkek
+> ağırlıklı (%55'e %45). Bu da bize tek bir cinsiyete odaklanmak yerine **her iki
+> kitleye de** hitap eden kampanyalar yürütmemiz gerektiğini söylüyor."
+
 ## 📦 SAYFA 3 — Envanter / Ürün
 > _(bu sayfayı yapınca eklenecek)_
 
