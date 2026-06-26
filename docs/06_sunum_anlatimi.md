@@ -160,7 +160,21 @@
 > bağlı sermayeyi azaltır, hem de en kârlı üründe satış kaçırmayı önleriz."
 
 ## 🌐 SAYFA 4 — Web Sitesi Performansı
-> _(bu sayfayı yapınca eklenecek)_
+
+### Dönüşüm Hunisi
+> "Sitemizde 683 bin oturum gerçekleşmiş ve bunların %27'si satın almayla sonuçlanmış.
+> Huniye baktığımızda yolculuk şöyle: insanlar çok sayıda ürün görüntülüyor, ciddi
+> miktarda sepete ekleme yapıyor — ama burada kritik bir düşüş var: sepete eklenen
+> olayların sayısı 596 bin iken, satın alma 183 bine iniyor. Üstüne 125 bin de iptal var.
+>
+> Yani en büyük sorunumuz **sepet terki** — müşteriler ürünü beğenip sepete atıyor ama
+> ödeme adımında kaçıyor. Bu, e-ticaretin en yaygın gelir kaybı noktası.
+>
+> Önerim: (1) ödeme sürecini sadeleştirip adım sayısını azaltmak, (2) sepetini terk
+> edenlere hatırlatma e-postası ve retargeting reklamı göndermek, (3) iptalleri azaltmak
+> için kargo ve iade koşullarını baştan netleştirmek.
+> (Dürüst not: %27'lik dönüşüm oranı gerçek e-ticaret için olağandışı yüksek — gerçekte
+> %2-3 beklenir; bu, veri setinin kurgusal olmasından kaynaklanıyor.)"
 
 ## 📣 SAYFA 5 — Pazarlama Etkinliği
 > _(bu sayfayı yapınca eklenecek)_
