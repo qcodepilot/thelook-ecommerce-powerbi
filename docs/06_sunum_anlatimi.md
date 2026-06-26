@@ -73,7 +73,17 @@
 ---
 
 ## 👥 SAYFA 2 — Müşteri Davranışı
-> _(bu sayfayı yapınca eklenecek)_
+
+### Harcama Segmentasyonu
+> "Müşterilerimizi toplam harcamalarına göre üç gruba ayırdık. Tablo şöyle:
+> müşterilerin **%54'ü düşük** (100 doların altında), **%43'ü orta** harcayan.
+> Yüksek harcayanlar — yani 500 doları aşanlar — ise yalnızca **%2,5**.
+>
+> Bu çok tanıdık bir tablo: küçük bir azınlık, muhtemelen cironun büyük kısmını
+> getiriyor (klasik 80/20 kuralı). Buradan iki net fırsat çıkıyor:
+> birincisi, 35 bin kişilik **orta segmenti** sadakat ve üst-satış kampanyalarıyla
+> yukarı taşımak; ikincisi, o değerli ama küçük **yüksek segmenti** özel programlarla
+> elde tutmak — çünkü değerli bir müşteriyi kaybetmek, yenisini kazanmaktan pahalıdır."
 
 ## 📦 SAYFA 3 — Envanter / Ürün
 > _(bu sayfayı yapınca eklenecek)_
