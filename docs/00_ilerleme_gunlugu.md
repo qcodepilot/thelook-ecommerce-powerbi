@@ -2,11 +2,11 @@
 
 > Projede attığımız adımların kaydı. Her anlamlı adımdan sonra güncellenir.
 
-## 📍 KALDIĞIMIZ YER (yarın buradan devam)
-**Tamamlanan:** FAZ 1-4 bitti → veri bağlandı, temizlendi, model + Tarih tablosu kuruldu, 14 measure + 2 segment sütunu yazıldı. Alet çantası hazır.
-**Sıradaki adım:** FAZ 5 — Sayfa 1 "Satış Performansı" görselleri. İlk iş: KPI Kartı (Toplam Satış) oluşturmak.
-**Hatırlatma:** Rapor görünümü → sayfayı "Satış Performansı" adlandır → Kart görseli → Toplam Satış. Sonra 3 KPI kartı + çizgi (aylık trend) + çubuk (top kategori) + hafta içi/sonu.
-**Not:** `.pbix` yerelde kayıtlı (GitHub'da değil — büyük dosya).
+## 📍 KALDIĞIMIZ YER (buradan devam)
+**Tamamlanan:** FAZ 1-4 (veri+model+measure) + **Sayfa 1 Satış** (5 KPI, trend, top kategori, ort. fiyat) + **Sayfa 2 Müşteri** (segment halkası, müşteri başı gelir, coğrafi treemap, cinsiyet, yaş). Tüm içgörüler `docs/06_sunum_anlatimi.md`'de.
+**Sıradaki adım:** Sayfa 3 — Envanter/Ürün (İade Oranı KPI, en çok iade edilen ürünler, en kârlı kategori, top 5 envanter kategorisi, marka tablosu).
+**Önemli teknik not:** Tarih tablosu ilişkisi datetime/date sorunu yaşattı; çözüm = grafiklerde `order_items[created_at]` veya `Sipariş Ay` (FORMAT) sütununu doğrudan kullan, Tarih ilişkisine güvenme. Hafta içi/sonu için order_items'a DAX sütun eklenebilir.
+**Not:** `.pbix` yerelde kayıtlı (GitHub'da değil — büyük dosya). Azure harita bölge kısıtı → coğrafya için treemap kullanıldı.
 
 ## ✅ Tamamlanan
 | # | Adım | Açıklama |

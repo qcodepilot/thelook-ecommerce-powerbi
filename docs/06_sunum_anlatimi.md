@@ -101,6 +101,20 @@
 > ağırlıklı (%55'e %45). Bu da bize tek bir cinsiyete odaklanmak yerine **her iki
 > kitleye de** hitap eden kampanyalar yürütmemiz gerektiğini söylüyor."
 
+### Yaş Dağılımı
+> "Yaş tarafında ilginç bir tablo var: müşteriler 12 yaştan 70'e kadar **neredeyse eşit
+> dağılmış** — belirgin bir yaş grubu öne çıkmıyor. Bu da TheLook'un belli bir kuşağa
+> değil, **geniş bir yaş yelpazesine** hitap ettiğini gösteriyor; dolayısıyla pazarlamayı
+> yaşa göre daraltmak yerine genele yaymak daha mantıklı.
+> (Dürüst not: Bu kadar düz bir dağılım, veri setinin kurgusal üretiminden kaynaklanıyor
+> olabilir; gerçek bir e-ticarette yaş genelde belirli aralıklarda yoğunlaşır.)"
+
+### ✅ Sayfa 2 Önerisi
+> "Müşteri tarafındaki önerilerim: (1) 35 binlik orta segmenti sadakat programıyla yukarı
+> taşıyın, (2) değerli yüksek segmenti özel avantajlarla elde tutun, (3) pazarlama bütçesini
+> Çin, ABD ve Brezilya gibi yoğun ülkelere yönlendirin, (4) yaş ve cinsiyet dengeli olduğu
+> için kampanyaları geniş kitleye kurun."
+
 ## 📦 SAYFA 3 — Envanter / Ürün
 > _(bu sayfayı yapınca eklenecek)_
 
