@@ -64,6 +64,21 @@
 > Kısacası aynı ciro iki farklı yoldan gelebiliyor: ya pahalı satarsın, ya çok satarsın.
 > En değerlisi ikisini birleştiren Outerwear kategorisi."
 
+### İade Deseni (kategori)
+> "İade oranlarını kategori bazında incelediğimizde, en yüksek iadeli kategoriler
+> Leggings, Pants ve Swim — ama dikkat çekici olan şu: oranlar birbirine **çok yakın**,
+> hepsi %9-10 bandında. Yani belirli bir 'sorunlu kategori' yok; iade **sistemik bir %10.**
+> Bu da çözümün kategoriye özel değil **genel** olması gerektiğini söylüyor: net beden
+> tabloları, daha iyi ürün görselleri, beden öneri aracı gibi tüm siteyi kapsayan
+> iyileştirmeler. (Dürüst not: oranların bu denli homojen olması veri setinin kurgusal
+> üretiminden kaynaklanıyor olabilir.)"
+
+### ✅ Sayfa 3 Önerisi (Envanter/Ürün)
+> "Ürün ve envanter tarafındaki önerilerim: (1) En kârlı kategoriler aynı zamanda en çok
+> satanlar — Outerwear, Jeans, Sweaters'a yatırımı sürdürün. (2) Intimates ve Tops & Tees'te
+> fazla stok var; sipariş azaltıp indirimle eritin. (3) Outerwear stoğunu artırın, stok
+> tükenmesini önleyin. (4) %10'luk iadeyi düşürmek için genel beden/görsel iyileştirmeleri yapın."
+
 ### ✅ Sayfa 1 Önerisi
 > "Satış tarafındaki önerim net: **Outerwear & Coats ve Jeans** kategorilerine
 > öncelik verelim — biri hem pahalı hem çok satıyor, diğeri hacim devi. Pazarlama

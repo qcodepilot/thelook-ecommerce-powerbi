@@ -4,7 +4,7 @@
 
 ## 📍 KALDIĞIMIZ YER (buradan devam)
 **Tamamlanan:** FAZ 1-4 (veri+model+measure) + **Sayfa 1 Satış** (5 KPI, trend, top kategori, ort. fiyat) + **Sayfa 2 Müşteri** (segment halkası, müşteri başı gelir, coğrafi treemap, cinsiyet, yaş). Tüm içgörüler `docs/06_sunum_anlatimi.md`'de.
-**Sıradaki adım:** Sayfa 3 — Envanter/Ürün (İade Oranı KPI, en çok iade edilen ürünler, en kârlı kategori, top 5 envanter kategorisi, marka tablosu).
+**Sıradaki adım:** Sayfa 4 — Web Sitesi Performansı (Oturum Sayısı, Dönüşüm Oranı, event_type akışı, tarayıcı). Sayfa 3 (Envanter/Ürün) tamam: kâr/kategori, İade %10 + Marj %52 KPI, Top 5 stok, Top 10 iade.
 **Önemli teknik not:** Tarih tablosu ilişkisi datetime/date sorunu yaşattı; çözüm = grafiklerde `order_items[created_at]` veya `Sipariş Ay` (FORMAT) sütununu doğrudan kullan, Tarih ilişkisine güvenme. Hafta içi/sonu için order_items'a DAX sütun eklenebilir.
 **Not:** `.pbix` yerelde kayıtlı (GitHub'da değil — büyük dosya). Azure harita bölge kısıtı → coğrafya için treemap kullanıldı.
 
