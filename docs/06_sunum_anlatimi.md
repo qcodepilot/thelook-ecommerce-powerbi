@@ -41,7 +41,14 @@
 > her nokta tek bir ayın dilimi. Parçalar bütünü doğruluyor._
 
 ### 🏆 Top Kategoriler
-> _(kategori grafiği bitince doldurulacak)_
+> "Peki bu satışlar hangi ürünlerden geliyor? En çok ciro getiren üç kategori:
+> **Outerwear & Coats, Jeans ve Sweaters** — yani montlar, kotlar ve kazaklar.
+> Listenin en altında ise çorap, tayt gibi düşük fiyatlı ürünler var.
+>
+> Buradaki desen önemli: ciroyu **birim fiyatı yüksek üst-giyim ürünleri** sürüklüyor.
+> Bir çorap ile bir mont aynı adette satılsa bile, mont ciroya çok daha fazla katkı
+> yapıyor. Bu da bize yatırımı nereye yönlendireceğimiz konusunda ilk ipucunu veriyor:
+> yüksek değerli kategoriler."
 
 ### 📅 Hafta İçi / Hafta Sonu
 > _(grafik bitince doldurulacak)_
