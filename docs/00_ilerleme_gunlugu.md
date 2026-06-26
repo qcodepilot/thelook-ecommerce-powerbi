@@ -26,7 +26,8 @@
 - [x] FAZ 3 (ilişkiler) — 6 ilişkilik temiz star schema kuruldu (detay: `docs/03_model_iliskiler.md`)
 - [x] FAZ 3 (devam) — Tarih tablosu oluşturuldu + order_items[created_at]'e bağlandı ("tarih tablosu olarak işaretle" opsiyonel, atlandı)
 - [x] FAZ 4 — 14 measure + 2 segment sütunu yazıldı (referans: `docs/04_dax_kutuphanesi.md`)
-- [ ] FAZ 5 — Sayfa 1: Satış Performansı görselleri
+- [x] FAZ 5 — Sayfa 1 Satış Performansı: 4 KPI + aylık trend + top kategoriler + ort. fiyat/kategori. İçgörüler script'te.
+- [ ] FAZ 6 — Sayfa 2: Müşteri Davranışı
 - [ ] FAZ 3 — Model & ilişkiler + Tarih tablosu
 - [ ] FAZ 4 — DAX measure'lar
 - [ ] FAZ 5-7 — 3 sayfa görselleştirme

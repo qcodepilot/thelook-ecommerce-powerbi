@@ -50,11 +50,25 @@
 > yapıyor. Bu da bize yatırımı nereye yönlendireceğimiz konusunda ilk ipucunu veriyor:
 > yüksek değerli kategoriler."
 
-### 📅 Hafta İçi / Hafta Sonu
-> _(grafik bitince doldurulacak)_
+### 💲 Kategori Bazında Ortalama Fiyat (çapraz analiz)
+> "Şimdi en çok ciro getiren kategorilerle, en pahalı kategorileri yan yana koyalım —
+> burada işin inceliği ortaya çıkıyor:
+>
+> • **Outerwear & Coats** hem en pahalı hem en çok satan kategori. Yani yüksek fiyat
+>   ve yüksek hacmi birleştiriyor — bizim **şampiyon kategorimiz.**
+> • **Jeans** orta fiyatlı ama ciroda ikinci; demek ki ciroyu **yüksek hacimle**
+>   yakalıyor — çok sayıda adet satılıyor.
+> • **Suits** ise pahalı ama az satıyor — yani burada **kullanılmamış bir potansiyel**
+>   var; doğru pazarlamayla hacmi artırılabilir.
+>
+> Kısacası aynı ciro iki farklı yoldan gelebiliyor: ya pahalı satarsın, ya çok satarsın.
+> En değerlisi ikisini birleştiren Outerwear kategorisi."
 
 ### ✅ Sayfa 1 Önerisi
-> _(sayfa bitince: yüksek marjlı + yüksek satışlı kategoriye odaklan, vb.)_
+> "Satış tarafındaki önerim net: **Outerwear & Coats ve Jeans** kategorilerine
+> öncelik verelim — biri hem pahalı hem çok satıyor, diğeri hacim devi. Pazarlama
+> bütçesi ve envanter yatırımı öncelikle buralara gitmeli. Suits gibi pahalı ama
+> az satan kategoriler için ise hedefli kampanyalarla hacmi büyütmeyi deneyebiliriz."
 
 ---
 
