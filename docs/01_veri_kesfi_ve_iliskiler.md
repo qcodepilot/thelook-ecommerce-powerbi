@@ -148,6 +148,22 @@ Merkezde **olay/olgu** tablosu (`order_items`), çevresinde onu **açıklayan bo
 
 ---
 
+### 7. `events` — Web olayları (Sayfa 4-5'te kullanıldı)
+Her satır = bir web etkileşimi. Anahtar sütun `event_type` (ziyaretçi ne yaptı):
+
+| event_type | Anlamı | Mağaza benzetmesi |
+|-----------|--------|-------------------|
+| `home` | Ana sayfa ziyareti | Kapıdan girdi |
+| `department` | Bölüm/reyon sayfasına baktı | "Kadın Giyim" reyonuna yöneldi |
+| `product` | Ürün sayfasına baktı | Bir ürünü eline alıp inceledi |
+| `cart` | Sepete ekledi | Sepete koydu |
+| `purchase` | Satın aldı | Kasada ödedi |
+| `cancel` | İptal etti | Vazgeçti |
+
+Diğer sütunlar: `session_id` (oturum), `user_id` (kullanıcı — anonimse boş), `created_at`, `browser`, `traffic_source` (geliş kanalı), `city`/`state`.
+**Gerçek yolculuk sırası:** home → department → product → cart → purchase. (Huni grafiği bunları sayıya göre dizer, akış sırasına göre değil.)
+**Ne öğreniriz:** Oturum sayısı, dönüşüm oranı, sepet terki, trafik kaynağı analizi.
+
 ## 🔗 Kurulacak İlişkiler (Model görünümü)
 
 Hepsi **Bir-Çok (1→*)**, tek yönlü:
