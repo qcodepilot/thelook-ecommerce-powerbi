@@ -31,7 +31,14 @@
 > Yani verdiğim sayılar birbirini doğruluyor."
 
 ### 📊 Aylık Trend
-> _(çizgi grafik bitince doldurulacak: mevsimsellik, yükseliş/düşüş yorumu)_
+> "Satışların zaman içindeki seyrine baktığımızda net bir **büyüme trendi** görüyoruz.
+> 2019'da aylık ~130 bin dolar civarındayken, 2026 ortasına gelindiğinde aylık satış
+> **850 bin doları** aşmış. Yani şirket küçülen değil, **istikrarlı büyüyen** bir
+> işletme. Bu büyüme özellikle son 1-2 yılda hızlanmış — bu da bize pazarlama ve
+> envanter yatırımını artırmanın doğru zamanı olduğunu söylüyor."
+>
+> _Teknik not (analist için): KPI'daki 10,9M toplam = tüm ayların toplamı; grafikteki
+> her nokta tek bir ayın dilimi. Parçalar bütünü doğruluyor._
 
 ### 🏆 Top Kategoriler
 > _(kategori grafiği bitince doldurulacak)_
