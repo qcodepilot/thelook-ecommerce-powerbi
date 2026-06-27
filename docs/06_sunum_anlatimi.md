@@ -216,6 +216,15 @@
 > (Dürüst not: %27'lik dönüşüm oranı gerçek e-ticaret için olağandışı yüksek — gerçekte
 > %2-3 beklenir; bu, veri setinin kurgusal olmasından kaynaklanıyor.)"
 
+### Etkileşim Metrikleri
+> "Ziyaretçi etkileşimine baktığımızda, oturum başına ortalama **3,57 sayfa** görüntüleniyor —
+> yani insanlar siteye girip birkaç ürün/sayfa geziyor, sağlıklı bir etkileşim. Sitede
+> geçirilen süreyi de events zaman damgalarından hesaplamayı denedik; ancak sentetik veride
+> bir oturuma ait olaylar zamanda çok dağıldığı için gerçekçi bir değer çıkmadı (ortalama
+> ~7 saat gibi anlamsız bir sonuç). Bu yüzden etkileşimi sayfa görüntüleme üzerinden
+> değerlendirdik. Gerçek bir veride oturum süresi dakikalarla ölçülür ve satışla
+> ilişkilendirilebilirdi."
+
 ### Kaynağa Göre Dönüşüm
 > "Dönüşüm oranını trafik kaynağına göre kırdığımızda ilginç bir sonuç çıkıyor: tüm
 > kanallarda dönüşüm neredeyse aynı (~%27). Yani hangi kanaldan gelirlerse gelsinler
