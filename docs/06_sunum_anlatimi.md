@@ -85,6 +85,16 @@
 > iyileştirmeler. (Dürüst not: oranların bu denli homojen olması veri setinin kurgusal
 > üretiminden kaynaklanıyor olabilir.)"
 
+### 🏷️ Marka Performansı
+> "Markaları satış, kâr marjı ve iade oranıyla birlikte incelediğimizde: satış liderleri
+> Calvin Klein, Diesel ve Carhartt. En yüksek marjlar ise premium/outdoor markalarda —
+> Ray-Ban, Canada Goose, The North Face, Arc'teryx %56-58 bandında.
+>
+> Buradaki yıldız **Canada Goose**: hem yüksek marj (%56) hem de **en düşük iade oranı (%5)** —
+> yani hem kârlı hem müşteri memnuniyeti yüksek. Bu profildeki markaları vitrinde öne
+> çıkarmak mantıklı. Tersine Quiksilver ve Mountain Hardwear %11 iade alıyor; bu markalarda
+> beden/kalite sorununu araştırmak gerekiyor."
+
 ### ✅ Sayfa 3 Önerisi (Envanter/Ürün)
 > "Ürün ve envanter tarafındaki önerilerim: (1) En kârlı kategoriler aynı zamanda en çok
 > satanlar — Outerwear, Jeans, Sweaters'a yatırımı sürdürün. (2) Intimates ve Tops & Tees'te
