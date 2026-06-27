@@ -246,6 +246,12 @@
 
 ## 📣 SAYFA 5 — Pazarlama Etkinliği
 
+### Kanal Getirisi (ROI — kâr bazlı)
+> "ROI sorusunu da ele aldık. Reklam harcaması verisi olmadığı için klasik ROI yerine,
+> ürün maliyetimizi kullanarak her kanalın **kâr getirisini** hesapladık. Sonuç: en çok
+> kârı **Search** getiriyor — toplam kârın yaklaşık %60'ı. Sıralama satışla aynı, çünkü
+> kâr marjımız kanallar arasında homojen (~%52). Yani en yüksek getirili kanal Search."
+
 ### Kanal Analizi
 > "Müşterilerimiz hangi kanaldan geliyor ve hangisi para getiriyor? İki grafiği yan yana
 > koyduğumuzda çarpıcı bir uyum var: hem müşteri sayısı hem satış sıralaması aynı —
