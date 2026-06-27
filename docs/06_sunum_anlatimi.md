@@ -274,6 +274,15 @@
 
 ---
 
+### Segment × Kanal
+> "Son olarak, hangi müşteri segmentinin hangi kanaldan geldiğine baktık. Her kanalın
+> segment dağılımı neredeyse aynı: çoğunlukla düşük harcayan, sonra orta, çok az yüksek —
+> kanaldan bağımsız olarak hep aynı karışım. Yani 'şu kanal daha çok yüksek-harcayan
+> getiriyor' diyebileceğimiz bir kanal yok; değerli müşteriler tüm kanallara eşit dağılmış.
+> Bunun pratik anlamı: kanal seçimi bir **hacim** kararı (Search en çok getiriyor), bir
+> **kalite** kararı değil. (Gerçek veride kanal-segment ilişkisi beklenir; buradaki eşitlik
+> sentetik veriden.)"
+
 ## 🎬 Kapanış
 > "Özetle: TheLook yüksek marjlı, sağlıklı bir işletme. Önerilerim şu üç başlıkta
 > toplanıyor: [1...], [2...], [3...]. Veriyi sadece raporlamadım; karar almanıza
