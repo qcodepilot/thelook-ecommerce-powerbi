@@ -216,6 +216,13 @@
 > (Dürüst not: %27'lik dönüşüm oranı gerçek e-ticaret için olağandışı yüksek — gerçekte
 > %2-3 beklenir; bu, veri setinin kurgusal olmasından kaynaklanıyor.)"
 
+### Kaynağa Göre Dönüşüm
+> "Dönüşüm oranını trafik kaynağına göre kırdığımızda ilginç bir sonuç çıkıyor: tüm
+> kanallarda dönüşüm neredeyse aynı (~%27). Yani hangi kanaldan gelirlerse gelsinler
+> ziyaretçiler benzer oranda satın alıyor — kanal seçimi dönüşüm *kalitesini* değil,
+> yalnızca *hacmini* etkiliyor. (Gerçek e-ticarette kanala göre dönüşüm farklılaşır;
+> buradaki eşitlik veri setinin kurgusal olmasından kaynaklanıyor.)"
+
 ### Tarayıcı Dağılımı
 > "Ziyaretçilerimizin tarayıcı tercihine baktığımızda Chrome açık ara önde — neredeyse
 > yarısı Chrome kullanıyor; ardından Safari ve Firefox geliyor, IE ise yok denecek kadar
