@@ -39,7 +39,7 @@ TheLook, kurgusal bir e-ticaret giyim perakendecisidir. Bu projede müşteri, ü
 - **Görselleştirme:** KPI kartı, çizgi/çubuk, halka, treemap, huni, tablo, cross-filter
 
 ## 📁 Dosyalar & Dokümantasyon
-- `TheLook_Analiz.pbix` — Power BI rapor dosyası (büyük dosya; repoda değil)
+- **`.pbix` (Power BI dosyası)** — 163 MB olduğu için repoda değil; **[OneDrive'dan indir](https://1drv.ms/u/c/7c5536847b29a316/IQDc_Tt1RZ-iTqE2qyuFlrsKATj_y3fsTRpecGhU5RZVhcM?e=HPB3Wq)** (Import modunda; açınca BigQuery gerekmez, veri içeride)
 - [`YAPIM_KILAVUZU.md`](YAPIM_KILAVUZU.md) — adım adım tam yapım kılavuzu
 - [`docs/`](docs/) — detaylı dokümantasyon:
   - [00 İlerleme günlüğü](docs/00_ilerleme_gunlugu.md)
